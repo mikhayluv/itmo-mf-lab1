@@ -1,1 +1,1 @@
-# itmo-mf
+# README
